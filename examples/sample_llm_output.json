@@ -1,0 +1,13 @@
+{
+  "lead_id": "lead_00231",
+  "score": 82,
+  "classification": "hot",
+  "icp_match": {
+    "industria_alvo": true,
+    "tamanho_empresa_ok": true,
+    "orcamento_ok": true,
+    "cargo_decisor": true
+  },
+  "reasoning": "Setor e porte compatíveis com o ICP, cargo decisor e orçamento acima do mínimo definido.",
+  "recommended_action": "Encaminhar para SDR imediatamente (contato em até 1h)."
+}

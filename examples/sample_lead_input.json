@@ -1,0 +1,16 @@
+{
+  "lead_id": "lead_00231",
+  "nome": "Ana Ferreira",
+  "email": "ana.ferreira@empresa.com",
+  "empresa": "Empresa Exemplo Ltda",
+  "cargo": "Diretora de Marketing",
+  "numero_funcionarios": 85,
+  "setor": "E-commerce",
+  "orcamento_estimado_usd": 4500,
+  "origem": "formulario_site",
+  "respostas_pesquisa": {
+    "principal_desafio": "Baixa conversão de leads",
+    "prazo_para_decisao": "30 dias",
+    "ja_usa_ferramenta_similar": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "industries_target": ["SaaS", "Fintech", "E-commerce", "Varejo", "Educação"],
+  "company_size_min": 11,
+  "company_size_max": 500,
+  "budget_min_usd": 1500,
+  "decision_maker_roles": [
+    "CEO", "CTO", "CMO", "COO",
+    "Diretor", "Diretora",
+    "Head", "Gerente", "Fundador", "Founder"
+  ],
+  "score_weights": {
+    "industria_alvo": 25,
+    "tamanho_empresa_ok": 20,
+    "orcamento_ok": 30,
+    "cargo_decisor": 25
+  },
+  "classification_thresholds": {
+    "hot": 70,
+    "warm": 40
+  }
+}
